@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 121,
+            "storeName": "常熟梅李",
+            "addressDetail": "常熟市梅李镇通江路11号银河苑1区5幢123-124号一层二层",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 122,
+            "storeName": "同里",
+            "addressDetail": "吴江区同里镇同里景区南入口石牌楼东侧旅游集散中心一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 123,
+            "storeName": "张家港华昌路DT",
+            "addressDetail": "张家港市华昌路与华山路口交汇处湖滨世家",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 124,
+            "storeName": "江星",
+            "addressDetail": "姑苏区城北东路1188号（江星广场华润万家店）",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 125,
+            "storeName": "繁花",
+            "addressDetail": "相城区人民路4555号繁花中心一层",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 126,
+            "storeName": "木渎影视城",
+            "addressDetail": "木渎镇金山南路228号苏州国际影视娱乐城3号楼1层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 127,
+            "storeName": "吴江万宝大润发",
+            "addressDetail": "吴江区中山南路1088号一层S1001",
+            "pro": "Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 128,
+            "storeName": "相城漕湖",
+            "addressDetail": "相城区漕湖产业园苏虞张西、卫渭路南",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 129,
+            "storeName": "木渎惠润",
+            "addressDetail": "吴中区木渎镇惠润金峰邻里中心（宝带路与谢村路交叉口）",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 130,
+            "storeName": "昆山九方城",
+            "addressDetail": "昆山市萧林中路666号的九方商场负一层B1-017",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

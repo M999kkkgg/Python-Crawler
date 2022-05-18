@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 61,
+            "storeName": "三香",
+            "addressDetail": "三香路345号",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 62,
+            "storeName": "威尼斯",
+            "addressDetail": "阊胥路282-300号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 63,
+            "storeName": "昆山大润发",
+            "addressDetail": "昆山市朝阳中路516号",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 64,
+            "storeName": "盘门百润发",
+            "addressDetail": "解放东路13号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 65,
+            "storeName": "张家港百润发",
+            "addressDetail": "张家港市沙洲中路288号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 66,
+            "storeName": "体育中心肯德基",
+            "addressDetail": "三香路183-184号",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 67,
+            "storeName": "常熟百润发",
+            "addressDetail": "常熟市新颜东路1号大润发常熟店1层",
+            "pro": "Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 68,
+            "storeName": "南环",
+            "addressDetail": "东吴北路288号沃尔玛超市一楼",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 69,
+            "storeName": "何山",
+            "addressDetail": "滨河路1823号何山大润发一层",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 70,
+            "storeName": "新南站",
+            "addressDetail": "南环东路601号一层",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

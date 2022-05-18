@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 91,
+            "storeName": "盛泽舜新",
+            "addressDetail": "吴江市舜新中路27号大润发卖场一层",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 92,
+            "storeName": "太仓润南",
+            "addressDetail": "太仓市太平南路东、南阳路南，大润发卖场",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 93,
+            "storeName": "柏庐",
+            "addressDetail": "昆山市柏庐路吉田国际广场",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 94,
+            "storeName": "西蒙",
+            "addressDetail": "常熟市海虞南路88号印象城一楼",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 95,
+            "storeName": "震泽",
+            "addressDetail": "吴江市震泽镇镇南路1000号江南缘项目C区",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 96,
+            "storeName": "张家港汽车站",
+            "addressDetail": "张家港华昌路长途汽车客运站",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 97,
+            "storeName": "太仓南洋",
+            "addressDetail": "太仓市人民南路19号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 98,
+            "storeName": "昆山欧尚",
+            "addressDetail": "昆山市玉山镇白马泾路46号欧尚卖场1层",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 99,
+            "storeName": "太仓沙溪",
+            "addressDetail": "太仓市沙溪镇白云路146号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 100,
+            "storeName": "园区华池",
+            "addressDetail": "工业园区圆融时代广场S2栋C幢旺敦路268号",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

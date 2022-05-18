@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 81,
+            "storeName": "天润餐厅",
+            "addressDetail": "柳州东路1号天润广场一层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 82,
+            "storeName": "河西雨润中央",
+            "addressDetail": "建邺区江东中路237号河西中央商场一楼",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 83,
+            "storeName": "南京南站二",
+            "addressDetail": "高铁二店 站内 B1-3检票口楼上",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 84,
+            "storeName": "河西苏宁环球",
+            "addressDetail": "清江路99号1层",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 85,
+            "storeName": "六合紫晶餐厅",
+            "addressDetail": "雄州镇龙津路紫晶广场一区5号楼苏果超市一层",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 86,
+            "storeName": "禄口机场新站楼",
+            "addressDetail": "禄口机场T2航站楼",
+            "pro": "机场店",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 87,
+            "storeName": "南京站北广场",
+            "addressDetail": "火车站北广场3楼3-1-1号",
+            "pro": "礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 88,
+            "storeName": "天泰",
+            "addressDetail": "秣陵街道将军大道62号",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 89,
+            "storeName": "溧水大润发（大润发1楼肯德基）",
+            "addressDetail": "溧水区天生桥大道与致远路交汇处",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 90,
+            "storeName": "殷巷苏果",
+            "addressDetail": "诚信大道与双龙大道交汇处",
+            "pro": "Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

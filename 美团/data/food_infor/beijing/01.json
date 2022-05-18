@@ -1,0 +1,1016 @@
+{
+  "status": 0,
+  "data": {
+    "poiList": {
+      "totalCount": 100,
+      "poiInfos": [
+        {
+          "avgPrice": 74,
+          "avgScore": 4.5,
+          "cateName": "京菜",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/169096294_1627644634543.jpeg",
+          "lat": 40.2084,
+          "lng": 116.2581,
+          "name": "北平人家（介山店）",
+          "poiid": "169096294",
+          "areaName": "昌平镇",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "昌平镇地方菜系好评榜第5名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐11.9元，双人餐188元，4人餐280元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减2元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "92代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a169096294_c0_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 69,
+          "avgScore": 4.8,
+          "cateName": "烤鱼",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/merchant/0a3400d0ce87c956c63fed4cd2068dc577520.jpg",
+          "lat": 40.1177,
+          "lng": 116.6491,
+          "name": "鱼唐宴·烤鱼·羊蝎子（怡馨家园店）",
+          "poiid": "192212781",
+          "areaName": "顺义",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "顺义烧烤烤肉好评榜第2名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 3,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "双人餐138元起，3人餐198元，4-6人餐246元起",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减28元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "90代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "",
+                  "content": "买单立享满100减8",
+                  "icon": "http://p1.meituan.net/codeman/3b56ab9f3824afb2781e12bd2fbb0a761558.png",
+                  "promotion": "",
+                  "hasBorder": 1,
+                  "borderColor": "#FF8822"
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a192212781_c1_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 74,
+          "avgScore": 4.6,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/193864968_1627713183229.jpeg",
+          "lat": 39.8807,
+          "lng": 116.637,
+          "name": "九门轩烤鸭店（环球影城店）",
+          "poiid": "193864968",
+          "areaName": "梨园",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持买单",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            },
+            {
+              "icon": "",
+              "text": {
+                "content": "预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "梨园地方菜系人气榜第10名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐5.8元，2-3人餐218元，4-6人餐308元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "90代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a193864968_c2_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 22,
+          "avgScore": 4.8,
+          "cateName": "川菜",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/biztone/1635470112_1632810917268.jpeg",
+          "lat": 39.9339,
+          "lng": 116.4165,
+          "name": "京豫小馆·豫菜·川菜（东四店）",
+          "poiid": "1635470112",
+          "areaName": "东四",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持买单",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            },
+            {
+              "icon": "",
+              "text": {
+                "content": "预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "东四地方菜系好评榜第2名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "12.9元羊肉烩面，双人餐85元起，4人餐216元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减60元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "45代50元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a1635470112_c3_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 84,
+          "avgScore": 4.8,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/biztone/1645850_1636093068879.jpeg",
+          "lat": 39.922,
+          "lng": 116.4475,
+          "name": "真地道京味府·鲜橙烤鸭（东大桥店）",
+          "poiid": "1645850",
+          "areaName": "东大桥",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "东大桥地方菜系人气榜第3名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "双人餐69元起，3-4人餐158元，4人餐368元，6人餐568元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "新客减62",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "45代50元，92代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a1645850_c4_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 83,
+          "avgScore": 4.6,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/biztone/179656195_1638087060567.jpeg",
+          "lat": 39.9169,
+          "lng": 116.4162,
+          "name": "小巷食府烤鸭店（王府井胡同店）",
+          "poiid": "179656195",
+          "areaName": "王府井/东单",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐48元，双人餐218元起，4人餐468元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减88元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "93代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a179656195_c5_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 92,
+          "avgScore": 4.7,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/biztone/188108587_1647500566959.jpeg",
+          "lat": 39.8829,
+          "lng": 116.4507,
+          "name": "北平盛世烤鸭店（光明桥店）",
+          "poiid": "157714865",
+          "areaName": "劲松/潘家园",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "劲松/潘家园地方菜系好评榜第5名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 3,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐9.9元，4人餐168元起，双人餐168元，8-10人餐758元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "96代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "",
+                  "content": "买单立享满100减4",
+                  "icon": "http://p1.meituan.net/codeman/3b56ab9f3824afb2781e12bd2fbb0a761558.png",
+                  "promotion": "",
+                  "hasBorder": 1,
+                  "borderColor": "#FF8822"
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a157714865_c6_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 47,
+          "avgScore": 4.7,
+          "cateName": "老北京小吃",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "https://img.meituan.net/msmerchant/481d4be83384e3dd2628ca4419ea9bdc57574.jpg",
+          "lat": 39.9405,
+          "lng": 116.3688,
+          "name": "门框胡同百年卤煮（新街口店）",
+          "poiid": "1649273",
+          "areaName": "新街口",
+          "poiImgExtra": {},
+          "extraServiceTags": [],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "新街口小吃快餐人气榜第1名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 3,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "90元卤煮双人餐",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "48代50元，95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "",
+                  "content": "买单立享满100减2",
+                  "icon": "http://p1.meituan.net/codeman/3b56ab9f3824afb2781e12bd2fbb0a761558.png",
+                  "promotion": "",
+                  "hasBorder": 1,
+                  "borderColor": "#FF8822"
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a1649273_c7_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 79,
+          "avgScore": 4.6,
+          "cateName": "京菜",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/merchant/6b4cfa29aa2b9bad46e6392cf09912d464465.jpg",
+          "lat": 40.1223,
+          "lng": 116.2685,
+          "name": "老京味清真烤鸭店（沙阳路店）",
+          "poiid": "6362564",
+          "areaName": "沙河",
+          "poiImgExtra": {},
+          "extraServiceTags": [],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "沙河地方菜系好评榜第5名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "1元康师傅芒果小酪，双人餐28元起，4-6人餐298元，10人餐688元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减5元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a6362564_c8_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 78,
+          "avgScore": 4.4,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/91794054_1627636443136.jpeg",
+          "lat": 40.2151,
+          "lng": 116.234,
+          "name": "北平人家（鼓楼南大街店）",
+          "poiid": "91794054",
+          "areaName": "昌平镇",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐11.9元，2-3人餐108元，双人餐158元起，4人餐280元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减60元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "92代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a91794054_c9_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 95,
+          "avgScore": 4.5,
+          "cateName": "老北京火锅",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/94865371_1647224129594.jpeg",
+          "lat": 39.8891,
+          "lng": 116.4626,
+          "name": "古铜老院铜锅涮肉·清真（双井店）",
+          "poiid": "94865371",
+          "areaName": "双井",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持买单",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "双人餐196元，4人餐249元起",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "新客减20",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "47代50元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a94865371_c10_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 100,
+          "avgScore": 4.8,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/biztone/1371813191_1646292516301.jpeg",
+          "lat": 39.9833,
+          "lng": 116.4107,
+          "name": "京味斋·北京牡丹烤鸭（奥体店）",
+          "poiid": "350451",
+          "areaName": "亚运村",
+          "poiImgExtra": {},
+          "extraServiceTags": [],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "亚运村地方菜系好评榜第2名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 3,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "10元豌豆黄，40元招牌琥珀金丝梨汤，50元京彩荟，1-3人餐89元，4人餐188元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "新客减22",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "96代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "",
+                  "content": "买单立享满100减4",
+                  "icon": "http://p1.meituan.net/codeman/3b56ab9f3824afb2781e12bd2fbb0a761558.png",
+                  "promotion": "",
+                  "hasBorder": 1,
+                  "borderColor": "#FF8822"
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a350451_c11_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 98,
+          "avgScore": 4.6,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/166211092_1626435509349.jpeg",
+          "lat": 39.8244,
+          "lng": 116.2985,
+          "name": "范家小馆·京韵烤鸭·颐和春晓（丰台万达广场店）",
+          "poiid": "166211092",
+          "areaName": "总部基地",
+          "poiImgExtra": {},
+          "extraServiceTags": [],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "总部基地地方菜系好评榜第2名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "8元范家酸奶配桂花蜜，双人餐168元起，4人餐398元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减5.11元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a166211092_c12_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 82,
+          "avgScore": 4.7,
+          "cateName": "羊蝎子火锅",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "https://img.meituan.net/msmerchant/1ca38da36c1ad9c137ca989e9a7d52042586589.jpg",
+          "lat": 39.8992,
+          "lng": 116.3933,
+          "name": "京城第一羯（前门总店）",
+          "poiid": "532636",
+          "areaName": "前门/大栅栏",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "前门/大栅栏火锅人气榜第3名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 3,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "双人餐179元起，3人餐209元，4人餐339元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减70元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "",
+                  "content": "买单立享9.7折",
+                  "icon": "http://p1.meituan.net/codeman/3b56ab9f3824afb2781e12bd2fbb0a761558.png",
+                  "promotion": "",
+                  "hasBorder": 1,
+                  "borderColor": "#FF8822"
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a532636_c13_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 96,
+          "avgScore": 4.6,
+          "cateName": "鲁菜",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/bbia/6f4e80f8df267acdbd963eebeb2c6e60326933.jpg",
+          "lat": 40.0652,
+          "lng": 116.2747,
+          "name": "惠丰堂饭庄（唐家岭店）",
+          "poiid": "116014490",
+          "areaName": "西北旺",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐138元，双人餐188元，4-6人餐598元，8-10人餐1098元，10-12人餐1398元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减89元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "94.8代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a116014490_c14_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        }
+      ]
+    },
+    "notification": "",
+    "picassoViews": [],
+    "traceData": {
+      "_apimeishi_rerank_report_data": ""
+    }
+  }
+}

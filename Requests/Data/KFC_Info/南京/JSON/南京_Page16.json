@@ -1,0 +1,33 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 151,
+            "storeName": "曙光天地",
+            "addressDetail": "夫子庙来燕路1号曙光天地1层沿街",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 152,
+            "storeName": "江宁龙湖",
+            "addressDetail": "竹山路与谭园路交汇处龙湖南京龙湾天街",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 153,
+            "storeName": "弘阳独立甜品站",
+            "addressDetail": "大桥北路48号弘阳广场B2馆一楼",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

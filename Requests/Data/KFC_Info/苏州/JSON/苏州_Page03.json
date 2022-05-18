@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 21,
+            "storeName": "盛泽西环路",
+            "addressDetail": "吴江市盛泽镇西环路西侧欧尚超一层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 22,
+            "storeName": "吴江车站",
+            "addressDetail": "吴江市经济开发区二二七省道西、学院路东侧吴江汽车站内一层",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 23,
+            "storeName": "园区星塘街",
+            "addressDetail": "工业园区淞江路18号欧尚商业中心1栋1层1006号",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 24,
+            "storeName": "吴中香雪海",
+            "addressDetail": "吴中区吴中大道168号香学海购物广场一楼",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 25,
+            "storeName": "昆山周市镇春晖路",
+            "addressDetail": "昆山市周市镇春晖路758号望族商城一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 26,
+            "storeName": "星海街",
+            "addressDetail": "工业园区星海街199号星海生活广场北区负一楼B115",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 27,
+            "storeName": "学府",
+            "addressDetail": "高新区（科锐路东学新路南学府路北）汇金商业广场11幢",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 28,
+            "storeName": "广济南路",
+            "addressDetail": "金阊区广济南路19号大润发一层",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 29,
+            "storeName": "吴江汾湖",
+            "addressDetail": "吴江市汾湖镇杭州路北侧TESCO乐购超一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 30,
+            "storeName": "渭塘",
+            "addressDetail": "相城区渭塘镇渭星街288号2幢104室一层、二层，105室一层、二层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

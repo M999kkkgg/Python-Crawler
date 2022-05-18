@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 141,
+            "storeName": "保利樾广场",
+            "addressDetail": "江宁区经贸学院路8号一层109-114号铺位",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 142,
+            "storeName": "南京南游客中心",
+            "addressDetail": "高铁五店  站外 靠近地铁6号口",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 143,
+            "storeName": "云锦路",
+            "addressDetail": "建邺区水西门大街云锦路地铁站1号出口处",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 144,
+            "storeName": "高淳宝龙",
+            "addressDetail": "轻轨西侧宝龙广场一楼肯德基",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 145,
+            "storeName": "龙湖六合天街",
+            "addressDetail": "中心一层铺位号1F-01古棠大道东侧、桥西路以南、滁河路西侧、文尚路以北六合龙湖天街（A地块）购物",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 146,
+            "storeName": "金马青创广场",
+            "addressDetail": "石狮路3号2幢金马青创广场一层A01号商铺",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 147,
+            "storeName": "南京南地铁站",
+            "addressDetail": "南京地铁1号线南京南站-1-南京南-04号商铺",
+            "pro": "Wi-Fi,点唱机,精选店",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 148,
+            "storeName": "南湖熙乐汇",
+            "addressDetail": "建邺区南湖东路67号一层",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 149,
+            "storeName": "南京南站3",
+            "addressDetail": "京沪高铁南京南站三楼出发层夹层",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 150,
+            "storeName": "丁家庄悦拾光",
+            "addressDetail": "凤霞路10号一层",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

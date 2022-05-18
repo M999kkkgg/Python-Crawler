@@ -1,0 +1,14 @@
+对应源文件
+    - 1_6.py
+
+关于requests
+    - 会把没有给Content-Type类型的数据默认成application/x-www-form-urlencoded
+    - headers里最好设置Content-Type
+    - post与get时传送data前最好进行如下转换
+        # FromData_1_1 = json.dumps(FromData_1)
+        # 使其进行字符串类型传参
+    - requests得到的数据类型，最好经过如下转换
+        # BriefData = json.loads(BriefData.text)
+预期之外的错误
+    - response 504
+        # 暂未发现解决办法

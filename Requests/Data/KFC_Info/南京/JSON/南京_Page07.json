@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 61,
+            "storeName": "金源百货",
+            "addressDetail": "迈皋桥栖霞大道28号万寿综合大楼一层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 62,
+            "storeName": "南京瞻园",
+            "addressDetail": "瞻园路9号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 63,
+            "storeName": "通济街",
+            "addressDetail": "通济街8号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 64,
+            "storeName": "奥体中心",
+            "addressDetail": "建邺区乐山路180号地铁十号线奥体中心站3号出口",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 65,
+            "storeName": "东城汇",
+            "addressDetail": "文苑路与学思路交叉口仙林东城汇",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 66,
+            "storeName": "华电",
+            "addressDetail": "迈皋桥街道高家村42号3幢1-2层",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 67,
+            "storeName": "水晶",
+            "addressDetail": "大光路142号际华广场",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 68,
+            "storeName": "中山门",
+            "addressDetail": "中山陵陵园路四方城1号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 69,
+            "storeName": "虹悦城",
+            "addressDetail": "应天大街619号德盈广场负一层",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 70,
+            "storeName": "华海",
+            "addressDetail": "珠江路435号华海大厦",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

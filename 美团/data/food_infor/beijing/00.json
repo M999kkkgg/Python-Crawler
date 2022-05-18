@@ -1,0 +1,1006 @@
+{
+  "status": 0,
+  "data": {
+    "poiList": {
+      "totalCount": 100,
+      "poiInfos": [
+        {
+          "avgPrice": 83,
+          "avgScore": 4.4,
+          "cateName": "自助烧烤",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/merchant/44265c94748550365e8f547b912f204425939.jpg",
+          "lat": 39.9603,
+          "lng": 116.2882,
+          "name": "玫瑰花园自助烤肉（金源店）",
+          "poiid": "4955158",
+          "areaName": "远大路",
+          "poiImgExtra": {},
+          "extraServiceTags": [],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "海淀区烧烤烤肉人气榜第1名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 1,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人下午茶85元，单人自助93元，双人自助176元起",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a4955158_c0_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 63,
+          "avgScore": 4.9,
+          "cateName": "融合烤肉",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/1252351658_1644220868173.jpeg",
+          "lat": 39.928,
+          "lng": 116.1978,
+          "name": "赵姐炙子烤肉·深夜食堂（杨庄店）",
+          "poiid": "1252351658",
+          "areaName": "苹果园",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持买单",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            },
+            {
+              "icon": "",
+              "text": {
+                "content": "预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "石景山区烧烤烤肉好评榜第1名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "2-3人餐128元，双人餐128元起，4人餐238元起，4-5人餐258元，6人餐458元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减29元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "88代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a1252351658_c1_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 76,
+          "avgScore": 4.9,
+          "cateName": "羊蝎子火锅",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/1954665381_1630998558825.jpeg",
+          "lat": 39.8898,
+          "lng": 116.4627,
+          "name": "京城第一羯（双井店）",
+          "poiid": "1954665381",
+          "areaName": "双井",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "双井火锅好评榜第1名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "双人餐138元起，4人餐208元起，5人餐288元，6-7人餐309元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "新客减20",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "85代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a1954665381_c2_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 28,
+          "avgScore": 4.6,
+          "cateName": "春饼",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/bbia/ba9878fad1944ebb92330799b426b0d8259917.jpg",
+          "lat": 39.9333,
+          "lng": 116.3084,
+          "name": "颐园春饼（花园桥店）",
+          "poiid": "118601336",
+          "areaName": "航天桥",
+          "poiImgExtra": {},
+          "extraServiceTags": [],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "航天桥小吃快餐好评榜第1名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 3,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "28元精品单人餐，49.8元双人套餐，68元精品3-4人餐",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "90代100元，80代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "",
+                  "content": "买单立享满70减6",
+                  "icon": "http://p1.meituan.net/codeman/3b56ab9f3824afb2781e12bd2fbb0a761558.png",
+                  "promotion": "",
+                  "hasBorder": 1,
+                  "borderColor": "#FF8822"
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a118601336_c3_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 78,
+          "avgScore": 4.3,
+          "cateName": "自助烧烤",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/merchant/44265c94748550365e8f547b912f204425939.jpg",
+          "lat": 40.1289,
+          "lng": 116.6515,
+          "name": "玫瑰花园自助烤肉（顺义店）",
+          "poiid": "186392653",
+          "areaName": "顺义",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "顺义区烧烤烤肉人气榜第1名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 1,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人自助83元，双人自助166元，4人自助316元起",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a186392653_c4_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 67,
+          "avgScore": 4.8,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/175515663_1618642129011.jpeg",
+          "lat": 39.8514,
+          "lng": 116.3996,
+          "name": "聚京民福烤鸭店（木樨园店）",
+          "poiid": "175515663",
+          "areaName": "洋桥/木樨园",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持买单",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            },
+            {
+              "icon": "",
+              "text": {
+                "content": "预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "洋桥/木樨园地方菜系好评榜第2名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐0.99元，双人餐10.9元起，4人餐318元起，6-8人餐438元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减2.1元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a175515663_c5_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 83,
+          "avgScore": 4.9,
+          "cateName": "羊蝎子火锅",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/biztone/116132164_1644748863210.jpeg",
+          "lat": 39.8708,
+          "lng": 116.6946,
+          "name": "老诚一锅（环球影城店）",
+          "poiid": "116132164",
+          "areaName": "土桥",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "土桥火锅好评榜第1名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐2元，双人餐169元起，3-4人餐299元，5-6人餐428元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减0.1元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a116132164_c6_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 88,
+          "avgScore": 4.5,
+          "cateName": "京菜",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/91303477_1630663394024.jpeg",
+          "lat": 39.9333,
+          "lng": 116.3844,
+          "name": "院落新京菜·烤鸭（地安门店）",
+          "poiid": "91303477",
+          "areaName": "地安门",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持买单",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            },
+            {
+              "icon": "",
+              "text": {
+                "content": "预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "地安门地方菜系人气榜第2名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐19.9元，双人餐29.9元起，2-3人餐198元起，3-4人餐338元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减40.4元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "96代100元，88代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a91303477_c7_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 64,
+          "avgScore": 4.5,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/2579773_1627644884835.jpeg",
+          "lat": 40.178,
+          "lng": 116.3872,
+          "name": "北平人家（小汤山店）",
+          "poiid": "2579773",
+          "areaName": "小汤山镇",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "小汤山镇地方菜系人气榜第1名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐11.9元，2-3人餐138元，双人餐158元起，4人餐280元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减60元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "92代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a2579773_c8_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 89,
+          "avgScore": 4.7,
+          "cateName": "老北京火锅",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/biztone/169165278_1647424005854.jpeg",
+          "lat": 39.9354,
+          "lng": 116.4089,
+          "name": "北门涮肉（宽街店）",
+          "poiid": "169165278",
+          "areaName": "南锣鼓巷/鼓楼东大街",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "双人餐168元起，4人餐318元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "48代50元，95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a169165278_c9_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 89,
+          "avgScore": 4.7,
+          "cateName": "羊蝎子火锅",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/1806803141_1645980076707.jpeg",
+          "lat": 39.9933,
+          "lng": 116.3385,
+          "name": "老城一锅·羊蝎子火锅·烧烤（五道口店）",
+          "poiid": "1806803141",
+          "areaName": "五道口",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持买单",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            },
+            {
+              "icon": "",
+              "text": {
+                "content": "预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "五道口火锅好评榜第8名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "双人餐158元起，3-4人餐318元，4人餐379元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "新客减20.00",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "promotion": "立减55.1元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a1806803141_c10_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 52,
+          "avgScore": 4.8,
+          "cateName": "京菜",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/09dcf4cc2022ce367fc332cce442e7dd130403.jpg",
+          "lat": 40.2185,
+          "lng": 116.2443,
+          "name": "尝到家尝（燕平路店）",
+          "poiid": "318148",
+          "areaName": "昌平镇",
+          "poiImgExtra": {},
+          "extraServiceTags": [],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "昌平镇地方菜系好评榜第4名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐11.9元起，双人餐188元，3-4人餐228元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减2元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "92代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a318148_c11_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 102,
+          "avgScore": 4.6,
+          "cateName": "老北京火锅",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/265139_1632879388106.jpeg",
+          "lat": 39.8867,
+          "lng": 116.3633,
+          "name": "聚宝源（牛街总店）",
+          "poiid": "265139",
+          "areaName": "牛街",
+          "poiImgExtra": {},
+          "extraServiceTags": [],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "牛街火锅人气榜第3名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 1,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "双人餐199元，4人餐309元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a265139_c12_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 85,
+          "avgScore": 4.7,
+          "cateName": "烤鸭",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p0.meituan.net/biztone/191361948_1645005402372.jpeg",
+          "lat": 39.8882,
+          "lng": 116.3713,
+          "name": "菜适口烤鸭店（菜市口店）",
+          "poiid": "191361948",
+          "areaName": "菜市口/陶然亭",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持买单",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "菜市口/陶然亭地方菜系人气榜第3名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "单人餐5元起，4人餐175元，双人餐241元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减4元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "98代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a191361948_c13_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        },
+        {
+          "avgPrice": 72,
+          "avgScore": 4.8,
+          "cateName": "京菜",
+          "channel": "food",
+          "showType": "",
+          "frontImg": "//p1.meituan.net/biztone/157686151_1646878071684.jpeg",
+          "lat": 39.8939,
+          "lng": 116.3092,
+          "name": "聚京民福烤鸭店（莲花桥店）",
+          "poiid": "157686151",
+          "areaName": "北京西站/六里桥",
+          "poiImgExtra": {},
+          "extraServiceTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "支持预订",
+                "color": "#6cbab2",
+                "backgroundColor": ""
+              }
+            }
+          ],
+          "rotationTags": [],
+          "smartTags": [
+            {
+              "icon": "",
+              "text": {
+                "content": "北京西站/六里桥地方菜系好评榜第2名",
+                "color": "#be9e4d",
+                "backgroundColor": "#fbf4e4",
+                "borderColor": ""
+              }
+            }
+          ],
+          "preferentialInfo": {
+            "hiddenNumber": 0,
+            "maidan": {
+              "defaultShowNum": 2,
+              "entries": [
+                {
+                  "discount": "",
+                  "discountColor": "#38c2aa",
+                  "content": "1-2人餐6.6元，双人餐138元起，4人餐368元",
+                  "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+                  "promotion": "立减2元",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                },
+                {
+                  "discount": "",
+                  "discountColor": "#ff8822",
+                  "content": "95代100元",
+                  "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+                  "hasBorder": 0,
+                  "borderColor": ""
+                }
+              ]
+            },
+            "combo": {
+              "defaultShowNum": 0,
+              "entries": []
+            }
+          },
+          "ctPoi": "043003459759439039041539080490424641019_a157686151_c14_e4203875437638042096",
+          "extraServiceIcons": [],
+          "distance": ">100km"
+        }
+      ]
+    },
+    "notification": "",
+    "picassoViews": [],
+    "traceData": {
+      "_apimeishi_rerank_report_data": ""
+    }
+  }
+}

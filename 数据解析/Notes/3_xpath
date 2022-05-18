@@ -1,0 +1,93 @@
+对应源文件
+    - TestPackage.WuBaHouse.py
+    - TestPackage.GetGaoqing.py
+    - TestPackage.GetCityName.py
+
+    - 需求
+        # 爬取58二手房中的房源信息
+            * https://bj.58.com
+        # 4k图片的解析
+            * http://pic.netbian.com/4kbeijing/
+        # 爬取全国城市名称
+            * https://www.aqistudy.cn/historydata/
+        # 爬取站长素材中免费简历模板
+            * http://sc.chinaz.com/
+
+关于xpath
+    - 最常用
+    - 便捷且高效
+    - 通用性最强（python与其他编程语言）
+    - 解析原理
+        # 实例化etree对象，且需要将被解析的页面源码数据加载到该对象中
+        # 调用etree对象中的xpath方法结合xpath表达式实现标签定位与内容捕获
+    - 环境安装
+        # lxml
+        # xpath
+
+xpath的使用
+    - 实例化etree对象
+        # from lxml import etree
+        # 加载本地html源码加载
+            * etree.parse(filePath)
+            * 返回一个etree对象
+        # 加载从互联网获取的页面数据
+            * page_text = requests.get/close().text
+            * etree.HTML(page_text)
+
+    - 调用 xpath('xpath表达式') 方法
+
+xpath表达式详解
+    - 可以根据层级关系定位标签
+        # etree.xpath('/html/head/title')
+            * 第一个斜杠表示从根结点开始遍历
+            * 返回的是一个列表
+            * 列表中存储的为element类型对象，其中存储的为title标签中存储的内容
+        # etree.xpath('/html//title')
+            * 结果同上
+            * // 表示多个层级
+        # etree.xpath('//title')
+            * 结果同上
+            * // 表示从任意位置定位title标签（所有）
+        # etree.xpath('//title[@属性定位]')
+            * etree.xpath('//title[@class="song"]')
+            * 实现属性定位
+        # etree.xpath('//title[@class="song"]/p[3]')
+            * 实现索引定位
+            * 索引从1开始
+            * 获取属性为class="song"的title标签下中所有p标签中的第三个p标签
+    - 获取标签文本内容
+        # etree.xpath('//title/text()')
+            * 获取定位标签中的文本数据
+            * 返回一个列表
+            * 列表中存储的是字符串类型
+            * 获取直系文本内容（title标签的直系文本）
+        # etree.xpath('//title//text()')
+            * 基本内容与上一种相似
+            * 获取的是标签中的直系与非直系文本内容（所有文本内容）
+    - 获取标签属性内容
+        # etree.xpath('//div[@class="song"]/img/@src')
+            * 获取属性为class="song"的div标签下的img标签中的src属性
+            * 返回的也是列表
+            * 列表中存储的是字符串类型
+    - 压缩包也是二进制存储
+
+关于HTML语言
+    - class属性中会有空格
+        # 空格间的为类名，一个表情可以有多个类名
+
+解决中文乱码问题
+    - 设置响应数据的整体编码
+        * self.Response.encoding = 'gbk'
+    - 设置xpath返回对象的编码（需要先知道原始网页的编码格式）
+        * temp = temp.encode('ISO-8859-1').decode('gbk')
+
+列表转化为字符串
+    - temp_list = ['h', 'e', 'l', 'l', 'o']
+      result = ''.join(temp_list)
+      print(result)    # hello
+    - 定义了分隔符
+        # a = ','
+          mylist = ['Brazil',	'Russia',	'India',	'China']
+          print(a.join(mylist))
+        # Brazil,Russia,India,China
+

@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 1,
+            "storeName": "江宁餐厅",
+            "addressDetail": "江宁开发区秦淮路11号欧尚超市一楼",
+            "pro": "点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 2,
+            "storeName": "应天餐厅",
+            "addressDetail": "应天大街866号欧尚超市1楼",
+            "pro": "点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 3,
+            "storeName": "金轮广场",
+            "addressDetail": "汉中路8号金轮新天地负一楼",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 4,
+            "storeName": "正洪",
+            "addressDetail": "中山南路79号中央商场二楼",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 5,
+            "storeName": "新华",
+            "addressDetail": "新华路520号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 6,
+            "storeName": "珍珠",
+            "addressDetail": "珠江路389号珍珠饭店一层",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 7,
+            "storeName": "汉中",
+            "addressDetail": "汉中路209号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 8,
+            "storeName": "光华",
+            "addressDetail": "御道街113号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 9,
+            "storeName": "广州",
+            "addressDetail": "广州路104号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 10,
+            "storeName": "正兴",
+            "addressDetail": "贡院街119号",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

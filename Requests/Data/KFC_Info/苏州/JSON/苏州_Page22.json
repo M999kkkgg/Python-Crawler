@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 211,
+            "storeName": "吴中永旺甜品站",
+            "addressDetail": "经济开发区越溪街道苏震桃路188号永旺梦乐城吴中购物中心三层商铺302-1",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 212,
+            "storeName": "同里甜品站",
+            "addressDetail": "吴江区同里镇三元街中川桥南堍一层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 213,
+            "storeName": "现代传媒广场67952920",
+            "addressDetail": "苏州大道东265号苏州现代传媒广场一楼铺位号L107/L108负",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 214,
+            "storeName": "昆山万象汇",
+            "addressDetail": "玉山镇前进西路1268号昆山万象汇商业中心项目S170a号商铺",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 215,
+            "storeName": "观前一号",
+            "addressDetail": "姑苏区观前街1-53号“观前1号”商场101-1&201-1商铺",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 216,
+            "storeName": "盛泽凤凰荟",
+            "addressDetail": "盛泽镇武威路588号碧桂园凤凰荟购物中心一层1-016",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 217,
+            "storeName": "昆山万象汇甜品站",
+            "addressDetail": "玉山镇前进西路1266号昆山万象汇商业中心L349号商铺",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 218,
+            "storeName": "花桥鑫隆广场",
+            "addressDetail": "花桥镇花溪路168号鑫隆广场1号楼4室一层8室一层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 219,
+            "storeName": "梅李大润发",
+            "addressDetail": "梅李镇将军路128号“梅李大润发”一层1001号",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 220,
+            "storeName": "望亭禹州",
+            "addressDetail": "望亭镇光明街南、鹤溪路东号一层、二层",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

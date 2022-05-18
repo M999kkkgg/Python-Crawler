@@ -1,0 +1,31 @@
+源码
+    - LogGushiwen.py
+    - 需求：模拟登陆后并保存个人主页的网址
+        # 爬取收藏夹内容（暂未实现）
+
+http与https协议特性
+    - 无状态
+        # 在没有Cookie时模拟登陆成功后，第二次请求时仍然是登录页面信息
+        # 这是因为服务器并没有记录你的登录状态
+        # 所以需要传入Cookie
+    - Cookie
+        # 手动Cookie处理（不建议）
+        # 自动Cookie处理
+    - Cookie的来源
+        # 在发出登录post之中
+            * 查看 response headers
+            * set-cookie 值
+            * 记录当前客户端登录状态
+            * 有服务器端创建
+
+session 会话对象
+    - 可以进行请求的发送（与requests相似）
+    - 若请求过程中产生了cookie，则自动存储或携带在该对象中
+    - 使用
+        # 创建一个session对象
+            * requests.session
+        # 使用它进行模拟登陆post请求的发送（存储cookie）
+        # 使用已经存储的cookie的session对象对个人主页对应的get请求进行发送
+            * 利用抓包工具查看login后面有几次get请求
+            * 有几次就用session发送几次get请求
+            * 从而抓包到最终页面

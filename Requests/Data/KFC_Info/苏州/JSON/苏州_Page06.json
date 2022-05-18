@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 51,
+            "storeName": "汽车南站精选",
+            "addressDetail": "常熟市招商东路1号",
+            "pro": "精选店",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 52,
+            "storeName": "昆山永盛",
+            "addressDetail": "昆山市北门路1118号永盛广场",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 53,
+            "storeName": "常熟虞景文华",
+            "addressDetail": "常熟市北门大街虞景文华广场内34-35号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 54,
+            "storeName": "方洲",
+            "addressDetail": "工业园区方洲路528号方洲邻里中心",
+            "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 55,
+            "storeName": "园区泾园",
+            "addressDetail": "工业园区扬东路277号新屹大厦1幢102室一层",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 56,
+            "storeName": "昆山朝阳（中医院斜对面）",
+            "addressDetail": "昆山市人民南路125号",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 57,
+            "storeName": "新华",
+            "addressDetail": "太仓市新华西路5号",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 58,
+            "storeName": "邻里",
+            "addressDetail": "现代大道158号新城大厦邻里中心A101",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 59,
+            "storeName": "虞山",
+            "addressDetail": "常熟市和平街2号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 60,
+            "storeName": "观前新",
+            "addressDetail": "观前街111号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

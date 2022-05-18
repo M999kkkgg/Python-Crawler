@@ -1,0 +1,10 @@
+对应源文件
+    - 1_4.py
+
+关于json模块的一些用法
+    - json.dumps()用于将dict类型的数据转成str
+        # 参数 indent 应该是一个非负的整型，如果是0/空，则一行显示数据；否则会换行且按照indent的数量显示前面的空白
+        # sort_keys 将数据根据keys的值进行排序
+        # data，fp 为要转换的数据和要存储json文件的位置
+        # 字符串中含有中文时必须设置 ensure_ascii 为False
+    - json.loads():用于将str类型的数据转成dict

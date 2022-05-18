@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 40
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 1,
+            "storeName": "建湖秀夫",
+            "addressDetail": "建湖县向阳路与秀夫路东南侧",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 2,
+            "storeName": "大丰幸福",
+            "addressDetail": "大丰区大润发超市一楼",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 3,
+            "storeName": "东台红兰",
+            "addressDetail": "盐城东台市红兰中路3号大润发一楼",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 4,
+            "storeName": "盐城建中",
+            "addressDetail": "建军路59号苏宁电器一楼",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 5,
+            "storeName": "盐城迎宾路",
+            "addressDetail": "亭湖区迎宾路宝龙广场一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 6,
+            "storeName": "盐城先锋",
+            "addressDetail": "亭湖区建军西路与小海路交界处先锋国际广场商业中心大润发超市1层",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 7,
+            "storeName": "射阳人民路",
+            "addressDetail": "射阳县人民路12号文峰超市一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 8,
+            "storeName": "黄海路",
+            "addressDetail": "响水县黄海路与滨江路交界127号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 9,
+            "storeName": "盐城解放润发",
+            "addressDetail": "盐都区解放南路239号大润发超市一楼肯德基",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 10,
+            "storeName": "盐城汽车站",
+            "addressDetail": "青年东路22号五星客运站内",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        }
+    ]
+}

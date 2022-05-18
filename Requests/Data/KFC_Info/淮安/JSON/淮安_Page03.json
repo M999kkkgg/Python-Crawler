@@ -1,0 +1,49 @@
+{
+    "Table": [
+        {
+            "rowcount": 25
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 21,
+            "storeName": "玖玟珑",
+            "addressDetail": "翔宇南道玖珑汇商业广场一楼铺位号1F-030",
+            "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 22,
+            "storeName": "百悦广场",
+            "addressDetail": "涟水县莲花小区东侧百悦广场",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 23,
+            "storeName": "淮安新城吾悦",
+            "addressDetail": "生态文旅区凤里路1号淮安吾悦广场",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 24,
+            "storeName": "淮安新城吾悦甜品站",
+            "addressDetail": "市辖区生态文旅区凤里路1号4F4029-2号",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 25,
+            "storeName": "淮安区万达",
+            "addressDetail": "楚州大道东侧、翔宇大道南侧的万达广场1003、2003号商铺",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        }
+    ]
+}

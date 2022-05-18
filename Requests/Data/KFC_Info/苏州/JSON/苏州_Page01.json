@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 1,
+            "storeName": "新欧尚",
+            "addressDetail": "中新大道西181号欧尚超市肯德基",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 2,
+            "storeName": "张家港锦丰",
+            "addressDetail": "张家港市锦丰镇锦店路1号肯德基",
+            "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 3,
+            "storeName": "吴中碧波(吴中商城5A写字楼一楼)",
+            "addressDetail": "吴中经济开发区东吴南路388号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 4,
+            "storeName": "张家港塘桥",
+            "addressDetail": "张家港塘桥镇南京路与西环路交汇处大润发卖场1层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 5,
+            "storeName": "浒关",
+            "addressDetail": "高新区文昌路301号浒关大润发超内一楼",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 6,
+            "storeName": "昆山张浦",
+            "addressDetail": "昆山市张浦新吴街148号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 7,
+            "storeName": "昆山开发区",
+            "addressDetail": "昆山市经济技术开发区前进中路237号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 8,
+            "storeName": "园区胜浦",
+            "addressDetail": "胜浦镇兴浦街金胜路口金雅苑8号1层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 9,
+            "storeName": "新苏站",
+            "addressDetail": "苏站路27号苏州站北广场北出站口东侧B1层出租车上车点方向",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 10,
+            "storeName": "张家港公园",
+            "addressDetail": "张家港市沙洲西路购物公园太阳广场1层M101-M102号",
+            "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

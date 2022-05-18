@@ -1,0 +1,51 @@
+对应源文件
+    - TestPackage.GetPicture.py
+    - 需求
+        # 爬取三国演义小说中所有的章节标题和内容
+        # https://www.shicimingju.com/book/sanguoyanyi.html
+
+关于bs4
+    - 仅仅适用于python
+    - 数据解析的原理
+        # 标签定位
+        # 提取标签/属性中的数据值
+    - bs4实现数据解析的原理
+        # 实例化一个 BeautifulSoup 对象，并且把页面源码的数据加载到该对象中
+        # 通过调用对象中相关的属性或者方法进行标签定位和数据提取
+    - 环境
+        # bs4包
+        # lxml解析器（包）
+
+bs4详解
+    - 如何实例化 BeautifulSoup 对象
+        # 导入包 from bs4 import BeautifulSoup
+        # 加载html
+            * 本地的html文件(只读方式打开文件，第一个参数为文件标志符)
+            * 从互联网获取的页面源码(第一个参数为requests.post/get().text的结果)
+            * 第二个参数永远为 'lxml'
+    - 用于数据解析的方法与属性
+        # 设对象名为soup
+        # soup.tagName （tagName为标签名称）
+            * 返回的是html中第一次出现标签为tagName的标签
+        # soup.find()
+            * 参数可以为标签名称 - 功能同soup.标签名称
+            * 参数为 (标签名称, 属性名_=属性值) - 根据具体属性定位到属性对应的标签
+        # soup.find_all()
+            * 类似find
+            * 可以找到符合标准的所有标签
+            * 返回值为列表
+        # soup.select()
+            * 参数可以表示成选择器
+                + .class 类选择器
+                + #id ID选择器
+                + * 通配选择器
+                + > 层级选择器（单个）
+                + space 表示多个层级
+                + 参考网址 https://www.w3school.com.cn/cssref/css_selectors.asp
+            * 返回值为符合选择器的所有标签组成的列表
+    - 获取标签之间的文本数据
+        # soup.标签名.text/string/get_text()
+        # text/get_text() 可以获得某个标签中的所有文本内容（即使不是直系的）
+        # string 仅仅可以获得某标签下的直系的文本内容
+    - 获取标签的属性值
+        # soup.a[属性名]

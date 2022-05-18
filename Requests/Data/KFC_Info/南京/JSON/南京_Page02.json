@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 11,
+            "storeName": "热河",
+            "addressDetail": "热河路2号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 12,
+            "storeName": "好又多",
+            "addressDetail": "长乐路132号沃尔玛超市2楼",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 13,
+            "storeName": "南京商厦",
+            "addressDetail": "龙蟠路2号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 14,
+            "storeName": "东山025-52188133（大市口东域城1楼）",
+            "addressDetail": "东山镇土山路2号（华意泰富广场南）",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 15,
+            "storeName": "黄金楼",
+            "addressDetail": "贡院西街72-94号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 16,
+            "storeName": "润发",
+            "addressDetail": "龙蟠中路260号",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 17,
+            "storeName": "龙江润发",
+            "addressDetail": "草场门大街99号金润发一楼",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 18,
+            "storeName": "迈皋桥",
+            "addressDetail": "和燕路346号（沃尔玛超市一楼）",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 19,
+            "storeName": "太平南路",
+            "addressDetail": "太平南路304-330号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 20,
+            "storeName": "金浦",
+            "addressDetail": "珠江镇文德路金浦假日百货一层",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

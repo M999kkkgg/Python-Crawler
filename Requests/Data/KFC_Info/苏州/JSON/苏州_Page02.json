@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 11,
+            "storeName": "园区唯亭",
+            "addressDetail": "唯亭镇金陵西路288号1栋(65075310)",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 12,
+            "storeName": "吴江鲈乡",
+            "addressDetail": "松陵镇江兴西路469号",
+            "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 13,
+            "storeName": "石路新苏",
+            "addressDetail": "广济南路219号石路天虹商场负1楼",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 14,
+            "storeName": "昆山陆家镇",
+            "addressDetail": "昆山市陆家镇友谊路118号华润万家超市一楼",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 15,
+            "storeName": "凤凰",
+            "addressDetail": "凤凰街与十梓街交叉路口",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 16,
+            "storeName": "吴中越溪",
+            "addressDetail": "苏州吴中区越溪镇吴中大道1109号“南苏州生活广场”E幢B馆华润万家超市旁",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 17,
+            "storeName": "园区斜塘（联丰广场65079712）",
+            "addressDetail": "工业园区莲葑路18号联丰商业广场4幢102世纪联华卖场内",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 18,
+            "storeName": "昆山千灯",
+            "addressDetail": "昆山市千灯镇尚书路8号千灯大润发一层",
+            "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 19,
+            "storeName": "吴江运东",
+            "addressDetail": "吴江经济开发区运东大道东侧江南奥斯卡5幢1层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 20,
+            "storeName": "黄埭",
+            "addressDetail": "相城区黄埭镇康阳路西136号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

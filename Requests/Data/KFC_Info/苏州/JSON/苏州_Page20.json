@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 191,
+            "storeName": "阳澄湖服务区",
+            "addressDetail": "沪宁高速阳澄湖服务区肯德基",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 192,
+            "storeName": "吴江万象汇",
+            "addressDetail": "开平路2299号吴江万象汇商业中心三楼L325号商铺",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 193,
+            "storeName": "邻瑞广场甜品站",
+            "addressDetail": "工业园区西华林街88号金鸡湖邻里中心负一层铺位号KB110",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 194,
+            "storeName": "张家港金丰",
+            "addressDetail": "金港镇镇山路59号(金丰商业广场)一层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 195,
+            "storeName": "苏州北站餐厅",
+            "addressDetail": "铁路苏州北站站外商业街区SZB-B1-02铺位",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 196,
+            "storeName": "常熟永旺餐厅",
+            "addressDetail": "65号高新技术产业开发区东南大道168号永旺梦乐城常熟购物中心一层商铺164-1",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 197,
+            "storeName": "吴江明珠城",
+            "addressDetail": "江陵西路1688号一层、二层",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 198,
+            "storeName": "常熟古里餐厅",
+            "addressDetail": "古里镇金湖路9号复兴大厦1幢101",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 199,
+            "storeName": "吴江万象汇甜品站",
+            "addressDetail": "开平路2299号吴江万象汇商业中心三层L349号商铺",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 200,
+            "storeName": "苏州星光耀",
+            "addressDetail": "虎池路1583号1楼",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

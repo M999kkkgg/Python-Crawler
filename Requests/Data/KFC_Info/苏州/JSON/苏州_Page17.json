@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 161,
+            "storeName": "相城天虹",
+            "addressDetail": "相城大道1168号天虹购物中心一层F114",
+            "pro": "Wi-Fi,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 162,
+            "storeName": "太阳广场",
+            "addressDetail": "姑苏区石路88号一层，二层",
+            "pro": "Wi-Fi,点唱机,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 163,
+            "storeName": "绿宝外卖点",
+            "addressDetail": "长江路436号绿宝购物中心二期三楼1-312A",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 164,
+            "storeName": "SZH993",
+            "addressDetail": "相城大道1168号天虹购物中心三层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 165,
+            "storeName": "吴江万宝甜品站",
+            "addressDetail": "中山南路1088号万宝财富商业广场一楼",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 166,
+            "storeName": "城市生活广场",
+            "addressDetail": "平泷路251号苏州城市生活广场一层102号、103号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 167,
+            "storeName": "吴中悠方",
+            "addressDetail": "吴中区木渎镇金枫路264号一层",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 168,
+            "storeName": "杨舍老街甜品站",
+            "addressDetail": "杨舍老街(园林路）",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 169,
+            "storeName": "公园甜品站",
+            "addressDetail": "克拉水岸",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 170,
+            "storeName": "常熟西蒙外卖点",
+            "addressDetail": "海虞南路88号常熟印象城三层03-K21",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

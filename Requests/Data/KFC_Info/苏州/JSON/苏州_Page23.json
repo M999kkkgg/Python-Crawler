@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 221,
+            "storeName": "张家港万达甜品站",
+            "addressDetail": "人民东路20号万达广场三层3019号商铺",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 222,
+            "storeName": "通安华金",
+            "addressDetail": "高新区通安镇华金路88号中诺誉园1幢107室1-2层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 223,
+            "storeName": "吴江明珠城甜品站",
+            "addressDetail": "江陵西路1688号新湖广场负一层",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 224,
+            "storeName": "阳澄湖湘阳",
+            "addressDetail": "湘城镇湘阳路1号一层69329271",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 225,
+            "storeName": "银都广场",
+            "addressDetail": "昆山市张浦镇银河路西侧新吴街999号银都商业广场一层六幢17、18号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 226,
+            "storeName": "张家港凤凰",
+            "addressDetail": "凤凰镇西凤公路西侧凤凰生活广场一层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 227,
+            "storeName": "吴江花园里",
+            "addressDetail": "经济技术开发区兴中路以北地块",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 228,
+            "storeName": "昆山新生活荟",
+            "addressDetail": "玉山镇前进西路2200号康居商业街一层铺位L1N02",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 229,
+            "storeName": "相城活力岛",
+            "addressDetail": "聚茂街198号水韵花都家园42号楼一层L113、L114商铺",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 230,
+            "storeName": "曼巴特甜品站",
+            "addressDetail": "杨舍镇河西路88号曼巴特购物广场1幢-M101负一层",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

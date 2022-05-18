@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 171,
+            "storeName": "丰隆中心",
+            "addressDetail": "苏州工业园区钟园路788号丰隆城市中心一层115号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 172,
+            "storeName": "园区体育公园",
+            "addressDetail": "工业园区中新大道东999号一层L1-24号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 173,
+            "storeName": "吴中凤凰广场(吴中区新华书旁)",
+            "addressDetail": "吴中区新华书店旁东吴北路66号",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 174,
+            "storeName": "狮子林",
+            "addressDetail": "园林路56号、狮林寺巷55号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 175,
+            "storeName": "双湖邻里甜品站",
+            "addressDetail": "双湖邻里中心内一层铺位岛柜",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 176,
+            "storeName": "吴中悠方甜品站",
+            "addressDetail": "吴中区木渎镇金枫路264号三层",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 177,
+            "storeName": "白马",
+            "addressDetail": "高新区马涧路288号马涧商业广场2幢101-105室",
+            "pro": "Wi-Fi,点唱机,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 178,
+            "storeName": "西城永捷甜品站",
+            "addressDetail": "广济南路19号西城永捷生活广场1F-B101-1层岛柜",
+            "pro": "点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 179,
+            "storeName": "张家港吾悦甜品站",
+            "addressDetail": "号312经济技术开发区金港大道路338号张家港新城吾悦广场14幢M165第三层编",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 180,
+            "storeName": "昆山火车站外卖点",
+            "addressDetail": "人民南路1号昆山站KS-1F-05",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

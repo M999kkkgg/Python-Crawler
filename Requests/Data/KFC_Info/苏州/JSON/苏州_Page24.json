@@ -1,0 +1,73 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 231,
+            "storeName": "相城元联邻里",
+            "addressDetail": "相城区元和街道安元路201号元联邻里广场一层103号66522327",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 232,
+            "storeName": "太仓丽景",
+            "addressDetail": "郑和中路400号丽景广场1幢101室",
+            "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 233,
+            "storeName": "锦丰服务西区",
+            "addressDetail": "锦丰服务区西侧一楼112、113号",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 234,
+            "storeName": "锦丰服务东区",
+            "addressDetail": "锦丰服务区东侧一楼112、113号",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 235,
+            "storeName": "新主城",
+            "addressDetail": "横山路南滨河路西新主城一层、二层",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 236,
+            "storeName": "相城梦多多",
+            "addressDetail": "元和街道润元路366号苏州梦多多小镇一层L1016、L1017号",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 237,
+            "storeName": "昆山梦多多",
+            "addressDetail": "玉山镇前进西路298-1、300-1号昆山梦多多小镇一层铺位编号L120号",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 238,
+            "storeName": "昆山经开万达",
+            "addressDetail": "衡山路58号经开万达一层1001号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

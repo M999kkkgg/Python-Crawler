@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 21,
+            "storeName": "金利",
+            "addressDetail": "新华路138号鑫乐广场（北京华联超市旁）",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 22,
+            "storeName": "仙林文苑",
+            "addressDetail": "仙林文苑路108号大成名店一楼",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 23,
+            "storeName": "新世纪",
+            "addressDetail": "太平南路1号",
+            "pro": "Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 24,
+            "storeName": "瑞金餐厅-瑞金路48号",
+            "addressDetail": "瑞金路48号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 25,
+            "storeName": "南京车站",
+            "addressDetail": "曙光大酒店旁 龙蟠路111号（站外）",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 26,
+            "storeName": "大桥家乐福",
+            "addressDetail": "大桥南路7号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 27,
+            "storeName": "花园",
+            "addressDetail": "花园路17号",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 28,
+            "storeName": "龙津",
+            "addressDetail": "龙津路8号金宁广场中区一层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 29,
+            "storeName": "胜太",
+            "addressDetail": "将军大道9号一层（近胜太西路）",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 30,
+            "storeName": "长江路",
+            "addressDetail": "1912街区长江路肯德基",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

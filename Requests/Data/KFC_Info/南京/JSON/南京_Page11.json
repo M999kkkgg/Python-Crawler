@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 101,
+            "storeName": "经贸苏果石门坎104号6-22",
+            "addressDetail": "石门坎104号",
+            "pro": "Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 102,
+            "storeName": "江浦大润发",
+            "addressDetail": "新浦路126号（新浦路与康安路交汇处大润发超市一楼）",
+            "pro": "Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 103,
+            "storeName": "柳洲东路站",
+            "addressDetail": "3号线柳洲东路站（柳洲东路与江山路交叉口西北角）",
+            "pro": "Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 104,
+            "storeName": "华侨城",
+            "addressDetail": "泰山镇大桥北路1号",
+            "pro": "Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 105,
+            "storeName": "百利广场餐厅",
+            "addressDetail": "来凤路9号百利广场104、105、201商铺",
+            "pro": "点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 106,
+            "storeName": "万辰餐厅",
+            "addressDetail": "宝塔路18-11号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 107,
+            "storeName": "夫子庙地铁站",
+            "addressDetail": "地铁3号线夫子庙站3号出口",
+            "pro": "24小时,Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 108,
+            "storeName": "南京铁发",
+            "addressDetail": "高铁四店 站外 南售票大厅楼上",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 109,
+            "storeName": "常发广场",
+            "addressDetail": "红山路88号",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 110,
+            "storeName": "麒麟BHG",
+            "addressDetail": "麒麟街道新大街悦民路128号东方红郡商业广场",
+            "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

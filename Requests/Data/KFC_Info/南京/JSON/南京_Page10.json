@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 91,
+            "storeName": "丰盛",
+            "addressDetail": "软件大道119号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 92,
+            "storeName": "中山陵",
+            "addressDetail": "中山陵步行街8-12",
+            "pro": "Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 93,
+            "storeName": "学府",
+            "addressDetail": "丹凤街39号",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 94,
+            "storeName": "龙华路站",
+            "addressDetail": "文德东路与公园北路交叉口地铁10号线2号出口",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 95,
+            "storeName": "砂之船",
+            "addressDetail": "江宁区秣周东路18号砂之船奥特莱斯艺术广场4B-11",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 96,
+            "storeName": "汤山奥莱",
+            "addressDetail": "圣汤大道99号10号楼3栋106和107商铺",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 97,
+            "storeName": "天悦城",
+            "addressDetail": "百润路与天华西路交叉口西北角天悦城",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 98,
+            "storeName": "长兴餐厅",
+            "addressDetail": "长兴大街515—679号金宝市场滨江商贸中心",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 99,
+            "storeName": "六合时代",
+            "addressDetail": "华欧大道8号龙湖时代广场一层",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 100,
+            "storeName": "黄金海岸餐厅",
+            "addressDetail": "金箔路999号",
+            "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

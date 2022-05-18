@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 40
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 31,
+            "storeName": "盐城万达(万达广场2号门南）",
+            "addressDetail": "西环路88号万达广场",
+            "pro": "Wi-Fi,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 32,
+            "storeName": "建湖万彩",
+            "addressDetail": "兴建东路800号万彩国际购物中心1楼1F06",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 33,
+            "storeName": "荷兰花海外卖点",
+            "addressDetail": "大丰市荷兰花海景区花房内",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 34,
+            "storeName": "盐城峰尚",
+            "addressDetail": "建军东路与机场路交界处峰尚生活广场5号楼",
+            "pro": "Wi-Fi,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 35,
+            "storeName": "盐城中南甜品站",
+            "addressDetail": "盐都区中南城购物中心四楼铺位号L4001-1肯德基甜品站",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 36,
+            "storeName": "滨海港城",
+            "addressDetail": "滨海县港城路99号欧堡利亚商业广场A一层102室103室",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 37,
+            "storeName": "盐城吾悦广场",
+            "addressDetail": "市辖区海洋路216号新城吾悦广场1019-2、1020号商铺",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 38,
+            "storeName": "新龙广场",
+            "addressDetail": "市辖区盐都区城南新区新都街道办事处东进村盐城新龙广场10号楼一楼10-105",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 39,
+            "storeName": "阜宁书香大厦",
+            "addressDetail": "阜城镇阜城大街18号书香大厦一层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 40,
+            "storeName": "东台悦来城",
+            "addressDetail": "东城大道8号东台城购物公园1幢悦来城一层101室、二层201室",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        }
+    ]
+}

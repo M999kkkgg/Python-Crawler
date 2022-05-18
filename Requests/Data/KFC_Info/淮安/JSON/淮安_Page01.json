@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 25
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 1,
+            "storeName": "新淮餐厅",
+            "addressDetail": "淮海北路65号",
+            "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 2,
+            "storeName": "时代餐厅",
+            "addressDetail": "解放东路43号",
+            "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 3,
+            "storeName": "新亚2餐厅",
+            "addressDetail": "淮海东路142号",
+            "pro": "24小时,Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 4,
+            "storeName": "楚州淮城",
+            "addressDetail": "淮城镇南门大街2号供销大厦一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 5,
+            "storeName": "洪泽人民",
+            "addressDetail": "东风路111号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 6,
+            "storeName": "盱眙华厦",
+            "addressDetail": "华厦国际广场A幢1单元一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 7,
+            "storeName": "楚州苏果",
+            "addressDetail": "淮城镇东门大街108号一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 8,
+            "storeName": "金湖苏果",
+            "addressDetail": "金湖路12号与新民路交汇处华润苏果购物广场一、二层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 9,
+            "storeName": "淮安万达",
+            "addressDetail": "淮安万达广场（万达一楼B口）",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 10,
+            "storeName": "涟水大润发",
+            "addressDetail": "涟水县安东路与常青路西北角",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        }
+    ]
+}

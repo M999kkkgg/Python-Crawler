@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 181,
+            "storeName": "木渎影视城甜品站",
+            "addressDetail": "吴中区木渎镇金山南路288号木渎影视城3号楼1层肯德基甜品站",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 182,
+            "storeName": "太仓人民新路绿地",
+            "addressDetail": "科教新城人民新路绿地乐和城肯德基太仓人民新路绿地店",
+            "pro": "Wi-Fi,点唱机,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 183,
+            "storeName": "昆山吾悦",
+            "addressDetail": "昆山市玉山镇长江南路99号新城吾悦广场一层1030号、二层2026号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 184,
+            "storeName": "山塘街",
+            "addressDetail": "姑苏区山塘街48号",
+            "pro": "Wi-Fi,点唱机,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 185,
+            "storeName": "昆山新粮贸",
+            "addressDetail": "人民北路1号二层",
+            "pro": "Wi-Fi,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 186,
+            "storeName": "虎丘甜品站",
+            "addressDetail": "姑苏区虎丘风景区内虎丘风情街区",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 187,
+            "storeName": "张家港万达",
+            "addressDetail": "人民东路20号万达广场1062号商铺",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 188,
+            "storeName": "尹山湖爱琴海",
+            "addressDetail": "号为3109-3110号吴中区经济开发区清禾路888号尹山湖商业水街负一层铺位号为B1029号、一层铺位",
+            "pro": "Wi-Fi,点唱机,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 189,
+            "storeName": "新区金鹰",
+            "addressDetail": "狮山路298号金鹰国际广场一楼TEL-68123071",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 190,
+            "storeName": "虞山外卖点",
+            "addressDetail": "常熟市虞山公园七孔桥旁",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

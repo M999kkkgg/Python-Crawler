@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 151,
+            "storeName": "昆山万达",
+            "addressDetail": "周市镇青阳北路218号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 152,
+            "storeName": "苏站南广场精选",
+            "addressDetail": "苏州火车站到达层南侧出站口",
+            "pro": "Wi-Fi,精选店",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 153,
+            "storeName": "常熟万达",
+            "addressDetail": "珠海路8号",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 154,
+            "storeName": "新区龙湖",
+            "addressDetail": "塔园路181号14栋5层SZSSTJ-A-5F-17",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 155,
+            "storeName": "周庄",
+            "addressDetail": "周庄镇全福路118号",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 156,
+            "storeName": "张家港妙桥",
+            "addressDetail": "塘桥镇妙桥中路319号321号323号喝吹鼓路336号",
+            "pro": "Wi-Fi,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 157,
+            "storeName": "苏州中心",
+            "addressDetail": "苏州中心4楼肯德基",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 158,
+            "storeName": "龙湖甜品站",
+            "addressDetail": "塔园路181号6楼甜品站",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 159,
+            "storeName": "昆山南站",
+            "addressDetail": "人民南路与创业路高铁南站3号出口对面",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 160,
+            "storeName": "吴江水秀天地餐厅",
+            "addressDetail": "吴江区开平路3688/3888号独栋4#1层",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 25
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 11,
+            "storeName": "淮安北京路苏果",
+            "addressDetail": "北京新村五区新苑逸城",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 12,
+            "storeName": "健康东路",
+            "addressDetail": "健康东路49号（丹桂苑综合楼营业房）",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 13,
+            "storeName": "南昌路大润发",
+            "addressDetail": "南昌路与威海路交汇处东北角",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 14,
+            "storeName": "盱眙大润发",
+            "addressDetail": "都梁大道与东湖南路交汇处",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 15,
+            "storeName": "承德北路大润发",
+            "addressDetail": "承德北路与黄河路交汇处",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 16,
+            "storeName": "楚州大润发",
+            "addressDetail": "翔宇大道与北门大街交汇处",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 17,
+            "storeName": "洪泽大润发",
+            "addressDetail": "北京路与建设路交汇处",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 18,
+            "storeName": "淮阴时代",
+            "addressDetail": "淮阴区利群时代超市一楼",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 19,
+            "storeName": "六洞服务区（东）",
+            "addressDetail": "六洞服务区",
+            "pro": "Wi-Fi,精选店",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        },
+        {
+            "rownum": 20,
+            "storeName": "六洞服务区(西)",
+            "addressDetail": "六洞服务区",
+            "pro": "Wi-Fi,精选店",
+            "provinceName": "江苏省",
+            "cityName": "淮安市"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 201,
+            "storeName": "常熟永旺甜品站",
+            "addressDetail": "号高新技术产业开发区东南大道168号永旺梦乐城常熟购物中心二层商铺253-3",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 202,
+            "storeName": "拙政园",
+            "addressDetail": "姑苏区东北街168号A组4室、5室",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 203,
+            "storeName": "昆山世茂广场甜品站",
+            "addressDetail": "开发区前进东路199号昆山世茂广场三楼D0L3S09号商铺",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 204,
+            "storeName": "石湖金陵广场",
+            "addressDetail": "吴中经济开发区越溪街道南溪江路88号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 205,
+            "storeName": "苏雅甜品站",
+            "addressDetail": "吴中区工业园区苏雅路388号新天翔商业广场裙楼内天虹百货二层铺位A2001-2",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 206,
+            "storeName": "甪直维乐城",
+            "addressDetail": "吴中区甪直镇陶浜路399号南山维乐邻里生活广场一层铺位号101",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 207,
+            "storeName": "张家港乐余",
+            "addressDetail": "乐余镇乐余老街东侧乐悦广场11幢M105一、二层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 208,
+            "storeName": "花桥宜客莱",
+            "addressDetail": "花桥镇西环路23号一层、花桥镇西环路11号二层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 209,
+            "storeName": "园区永旺",
+            "addressDetail": "园区永旺梦乐城肯德基（电话65576195）",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 210,
+            "storeName": "吴中永旺",
+            "addressDetail": "吴中区经济开发区越溪街道苏震桃路188号永旺梦乐城吴中购物中心一层商铺",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

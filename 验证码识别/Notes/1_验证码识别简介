@@ -1,0 +1,20 @@
+工程
+    - 源码
+        TestPackage.LogGushiwen.py
+    - 需求
+        # https://so.gushiwen.cn/
+
+验证码识别
+    - 验证码与爬虫
+        # 验证码为门户网站中制定的反爬机制
+    - 识别验证码图片中的数据
+        # 用于模拟登陆操作
+    - 识别验证码的操作
+        # 肉眼识别（低效）
+        # 第三方自动识别
+
+第三方平台自动识别
+    - 云打码
+        # 账户 msf1189
+        # 密码 msf97347110
+        # http://www.ttshitu.com/login.html?spm=null

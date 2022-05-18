@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 71,
+            "storeName": "玉桥",
+            "addressDetail": "建宁路8号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 72,
+            "storeName": "石林百货",
+            "addressDetail": "联合村147号一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 73,
+            "storeName": "大华家乐福",
+            "addressDetail": "浦珠路、柳州南路口大华家乐福一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 74,
+            "storeName": "双龙DT",
+            "addressDetail": "宁溧公路288号麦德龙超市旁",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 75,
+            "storeName": "金宝DT",
+            "addressDetail": "东新南路金宝大市场",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 76,
+            "storeName": "凤凰餐厅",
+            "addressDetail": "凤凰东街150号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 77,
+            "storeName": "高淳淳溪餐厅",
+            "addressDetail": "淳溪镇天河路西侧襟湖路北侧39号",
+            "pro": "礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 78,
+            "storeName": "马群",
+            "addressDetail": "中山门大街马群地铁站1号出口外",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 79,
+            "storeName": "大观餐厅",
+            "addressDetail": "建宁路300号",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 80,
+            "storeName": "天迈餐厅",
+            "addressDetail": "地铁2号线油坊桥站",
+            "pro": "点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

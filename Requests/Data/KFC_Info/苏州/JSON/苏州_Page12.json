@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 111,
+            "storeName": "平望",
+            "addressDetail": "吴江市平望镇通运路44号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 112,
+            "storeName": "富邻广场",
+            "addressDetail": "金阊区物流园富强路北、虎新路东富邻商业广场3号楼一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 113,
+            "storeName": "张家港长丰",
+            "addressDetail": "张家港市大新镇长丰村府前东路20号一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 114,
+            "storeName": "金鸡湖邻里",
+            "addressDetail": "工业园区金鸡湖大道和西华林街交界处邻瑞广场",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 115,
+            "storeName": "钟慧路",
+            "addressDetail": "苏州工业园区钟慧路华润万家购物中心二楼",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 116,
+            "storeName": "相城太平邻里",
+            "addressDetail": "相城区太平街道兴太路35号邻里中心",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 117,
+            "storeName": "昆山北门路",
+            "addressDetail": "昆山市北门路267号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 118,
+            "storeName": "东吴北路",
+            "addressDetail": "吴中区东吴北路111号朗庭1层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 119,
+            "storeName": "昆山花桥",
+            "addressDetail": "昆山市花桥镇花安路171号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 120,
+            "storeName": "太仓浏河",
+            "addressDetail": "太仓市浏河镇郑和大街南侧浏河汽车站一层",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

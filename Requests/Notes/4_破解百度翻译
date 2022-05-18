@@ -1,0 +1,27 @@
+对应源文件
+    - 1_3_1.py
+    - 1_3_2.py
+    - baidu_sign.py
+
+需要提前在主目录下创建Data
+    - 对应python源代码文件 1_3.py
+
+ajax 前端局部刷新
+    - 需要用抓包工具查看
+    - 从而获取翻译数据
+    - 在XHR数据包中
+    - 查看刷新时重复出现的部分
+        # header 下查看访问的URL
+        # header 查看from data（post时候的参数）
+        # 查看UA
+        # 查看cookie
+查看结果
+    - post请求（携带了参数）
+    - 响应数据是一组json数据
+        # content-type: application/json
+    - 这一组数据就是对应的翻译结果
+    - 访问结果的json文件中被转化为了dict（response.json()方法），查看文件内容从而输出翻译结果
+其他
+    - 2020 的百度翻译的json文件中有算法获取传参的属性 sign
+    - 查看源代码获得计算sign的函数
+    - 具体查看1_3_2.py文件以及baidu_sign.js文件

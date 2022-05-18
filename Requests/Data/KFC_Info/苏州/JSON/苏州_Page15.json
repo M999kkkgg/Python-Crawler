@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 141,
+            "storeName": "昆山崇邦(昆城广场）",
+            "addressDetail": "昆山市人民南路1188号“昆城广场”一号楼133单元部分、134单元及135单元",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 142,
+            "storeName": "长江湾",
+            "addressDetail": "长江路815号长江湾商业广场1幢102室",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 143,
+            "storeName": "时尚水岸",
+            "addressDetail": "高新区科技城武夷山路69号时尚水岸商业广场4幢一层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 144,
+            "storeName": "相城圆融广场",
+            "addressDetail": "高铁新城南天成路111号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 145,
+            "storeName": "接驾桥餐厅",
+            "addressDetail": "人民路1640号",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 146,
+            "storeName": "美乐城",
+            "addressDetail": "邵昂路69号美乐城一楼101号",
+            "pro": "Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 147,
+            "storeName": "南环汇邻",
+            "addressDetail": "南园南路5号汇邻中心一层",
+            "pro": "24小时,Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 148,
+            "storeName": "常熟常汇",
+            "addressDetail": "常汇生活广场1层海虞北路88号",
+            "pro": "Wi-Fi,点唱机,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 149,
+            "storeName": "昆山南站精选",
+            "addressDetail": "昆山高铁南站候车大厅1号检票口旁",
+            "pro": "精选店",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 150,
+            "storeName": "黄埭中翔",
+            "addressDetail": "黄埭镇方桥路28号1幢一层",
+            "pro": "Wi-Fi,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 81,
+            "storeName": "跨塘",
+            "addressDetail": "跨塘镇葑亭大道锦丰泰盛生活广场西区1号楼",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 82,
+            "storeName": "相城",
+            "addressDetail": "相城经济开发区华元路99号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 83,
+            "storeName": "绿宝广场",
+            "addressDetail": "虎丘区长江路绿宝广场1楼",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 84,
+            "storeName": "饮马桥",
+            "addressDetail": "人民路1001号",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 85,
+            "storeName": "杨枝塘",
+            "addressDetail": "葑谊路266号家乐福超市一楼铺位号A03",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 86,
+            "storeName": "盛泽市场",
+            "addressDetail": "吴江市盛泽镇东方丝绸市场十字河西1层1区157号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 87,
+            "storeName": "常熟方塔街",
+            "addressDetail": "常熟市虞山镇方塔街5号秋艳服饰1-2层",
+            "pro": "Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 88,
+            "storeName": "塔园",
+            "addressDetail": "华润超市塔园店-68182985",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 89,
+            "storeName": "常熟海虞",
+            "addressDetail": "常熟市海虞北路27号常客隆超一层",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 90,
+            "storeName": "金枫",
+            "addressDetail": "金枫南路1号华润超市",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

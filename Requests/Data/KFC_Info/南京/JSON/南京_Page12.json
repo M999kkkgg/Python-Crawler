@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 111,
+            "storeName": "澳林购物广场",
+            "addressDetail": "浦珠路126号",
+            "pro": "24小时,Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 112,
+            "storeName": "移动餐车紫金号",
+            "addressDetail": "苏宁易购总部百乐汇美食花园广场",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 113,
+            "storeName": "金鹰世界",
+            "addressDetail": "应天大街888号金鹰世界三层",
+            "pro": "店内参观,精选店",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 114,
+            "storeName": "国金",
+            "addressDetail": "汉中路1号金融国际中心负一层A-14",
+            "pro": "精选店",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 115,
+            "storeName": "美利广场",
+            "addressDetail": "六合区大厂街道美利广场一层",
+            "pro": "Wi-Fi,点唱机,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 116,
+            "storeName": "学则路",
+            "addressDetail": "学则路地铁站2号出口旁",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 117,
+            "storeName": "苏宁商贸体育",
+            "addressDetail": "秦淮区秦淮区中山南路49号苏宁电器负一层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 118,
+            "storeName": "江宁1912",
+            "addressDetail": "江宁区双龙大道1680号1912街区9-102",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 119,
+            "storeName": "头陀岭(紫金山顶）",
+            "addressDetail": "紫金山头陀岭",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 120,
+            "storeName": "江岛新天地外卖点",
+            "addressDetail": "建邺区环岛东路99号",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 131,
+            "storeName": "港龙",
+            "addressDetail": "高新区 长江路556号港龙城市商业广场",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 132,
+            "storeName": "滨江",
+            "addressDetail": "常熟市经济技术开发区江南大道95号邻里中心一层",
+            "pro": "Wi-Fi,点唱机,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 133,
+            "storeName": "吾悦广场",
+            "addressDetail": "金港大道388号吾悦商业广场",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 134,
+            "storeName": "吴中万达",
+            "addressDetail": "石湖西路188号吴中万达广场2号门1楼肯德基",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 135,
+            "storeName": "常熟支塘",
+            "addressDetail": "常熟市支塘镇支川路118号2幢常客隆超市一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 136,
+            "storeName": "木渎花样城",
+            "addressDetail": "苏州吴中区木渎镇中山东路98号花样城1号楼",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 137,
+            "storeName": "张家港汇金",
+            "addressDetail": "张家港市人民东路12号",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 138,
+            "storeName": "君地曼哈顿",
+            "addressDetail": "君地曼哈顿广场(电话：62816003）",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 139,
+            "storeName": "湖东邻里",
+            "addressDetail": "园区星湖街178号湖东邻里中心南楼N101号房一层餐厅",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 140,
+            "storeName": "双湖邻里",
+            "addressDetail": "苏州工业园区企鸿路18号双湖邻里中心1F",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

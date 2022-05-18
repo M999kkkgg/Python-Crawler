@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 40
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 11,
+            "storeName": "盐阜（新华书旁）",
+            "addressDetail": "建军中路109号",
+            "pro": "Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 12,
+            "storeName": "东台",
+            "addressDetail": "东台海陵南路2号国贸大厦1楼肯德基餐厅",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 13,
+            "storeName": "大丰",
+            "addressDetail": "大丰区健康东路39号一层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 14,
+            "storeName": "建湖",
+            "addressDetail": "建湖县人民中路188号",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 15,
+            "storeName": "盐城时代",
+            "addressDetail": "建军中路59号(中茵海华广场)",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 16,
+            "storeName": "射阳",
+            "addressDetail": "射阳县振阳街1-9号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 17,
+            "storeName": "阜宁",
+            "addressDetail": "阜宁县阜城大街49号",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 18,
+            "storeName": "旺角",
+            "addressDetail": "解放南路80号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 19,
+            "storeName": "滨海",
+            "addressDetail": "滨海县阜东中路198号",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 20,
+            "storeName": "盐城庆百",
+            "addressDetail": "解放南路128号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 71,
+            "storeName": "昆山易莲花",
+            "addressDetail": "长江北路128号(萧林路路口)易初莲花昆山店一层",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 72,
+            "storeName": "常熟世纪",
+            "addressDetail": "常熟市白雪路18号世纪联华卖场内",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 73,
+            "storeName": "松陵百润发",
+            "addressDetail": "吴江市笠泽路117号恒森广场百润发",
+            "pro": "24小时,Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 74,
+            "storeName": "吴江永康",
+            "addressDetail": "吴江市松陵镇永康路68号",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 75,
+            "storeName": "木渎(香港街）",
+            "addressDetail": "吴中区木渎镇中山西路16-12号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 76,
+            "storeName": "观中",
+            "addressDetail": "观前街136号",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 77,
+            "storeName": "金港",
+            "addressDetail": "张家港市金港镇长江中路中央广场内",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 78,
+            "storeName": "长安",
+            "addressDetail": "张家港市长安路221号",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 79,
+            "storeName": "常熟欧尚",
+            "addressDetail": "常熟市虞山镇黄河路255号欧尚常熟店1层",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 80,
+            "storeName": "贵宾",
+            "addressDetail": "干将东路888号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

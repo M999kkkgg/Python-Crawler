@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 41,
+            "storeName": "天元",
+            "addressDetail": "天元路388号义乌小商品城A区1栋一层",
+            "pro": "24小时,Wi-Fi,点唱机,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 42,
+            "storeName": "石鼓路",
+            "addressDetail": "石鼓路33号",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 43,
+            "storeName": "河西万达",
+            "addressDetail": "建邺区万达广场步行街西北侧",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 44,
+            "storeName": "紫金",
+            "addressDetail": "铁匠营地块的君临紫金商业项目07幢一层01、02号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 45,
+            "storeName": "仙林金鹰",
+            "addressDetail": "学海路1号1层4-102商铺",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 46,
+            "storeName": "铁心桥（铁心桥社区卫生服务中心旁）",
+            "addressDetail": "铁心桥大街1号（铁心桥大街春江路交叉路口）",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 47,
+            "storeName": "五星年华",
+            "addressDetail": "汉中路141-145号一层",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 48,
+            "storeName": "绿洲梅山203道口",
+            "addressDetail": "梅山街道203道口旁商务楼一层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 49,
+            "storeName": "紫峰",
+            "addressDetail": "中山北路6号",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 50,
+            "storeName": "金箔",
+            "addressDetail": "东山街道金箔路468号中国女人街A区一层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

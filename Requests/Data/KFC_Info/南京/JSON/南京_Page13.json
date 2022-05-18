@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 121,
+            "storeName": "仙林湖万达茂",
+            "addressDetail": "栖霞区仙林白象片区仙林湖南侧地块万达广场二层【2006】号商铺",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 122,
+            "storeName": "仙林万达茂甜品站",
+            "addressDetail": "栖霞区仙林白象片区仙林湖南侧地块万达广场2层2079A商铺",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 123,
+            "storeName": "高淳宝塔路餐厅",
+            "addressDetail": "宝塔路61号八佰伴百货一、二层",
+            "pro": "店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 124,
+            "storeName": "湖南路",
+            "addressDetail": "鼓楼区湖南路18号1楼+负1楼",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 125,
+            "storeName": "六合服务区西区",
+            "addressDetail": "境内长深高速公路的六合服务区西区一层",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 126,
+            "storeName": "六合服务区东区",
+            "addressDetail": "境内长深高速公路的六合服务区东区一层",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 127,
+            "storeName": "溧水万达",
+            "addressDetail": "高平大街55号万达广场一层铺位号【1001+1002A】",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 128,
+            "storeName": "六合欢乐港",
+            "addressDetail": "龙津路52号B1层（铺位号：B1039、B1052）",
+            "pro": "Wi-Fi,点唱机,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 129,
+            "storeName": "燕子矶花园城",
+            "addressDetail": "栖霞区经五路二期西侧1号地块一层（铺位号：112）、二层（铺位号210）",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 130,
+            "storeName": "六合欢乐港甜品站",
+            "addressDetail": "龙津路48号六合欢乐港三层3019B号铺位",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

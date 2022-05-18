@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 41,
+            "storeName": "园区时尚（电话68323308）",
+            "addressDetail": "工业园区唯亭镇后戴街9号（电话68323308）",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 42,
+            "storeName": "桐泾北路",
+            "addressDetail": "桐泾北路218号来客茂时尚生活中心一二层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 43,
+            "storeName": "园区东沙湖62537349",
+            "addressDetail": "园区东沙湖邻里中心(电话62537349)",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 44,
+            "storeName": "园区车坊",
+            "addressDetail": "苏州工业园区普惠路1089号（星湖财富广场）2幢107-108室一二层和2幢106的二层商铺",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 45,
+            "storeName": "昆山陆家乐购",
+            "addressDetail": "昆山市陆家镇陆家浜北路东侧启发广场华润万家超市一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 46,
+            "storeName": "浒关保卫路",
+            "addressDetail": "浒墅关保卫路33、35号（华润万家购物中心）一层、二层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 47,
+            "storeName": "胥口帝豪",
+            "addressDetail": "胥口镇孙武路北侧、香泾路东侧“帝豪家缘”商业一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 48,
+            "storeName": "昆山洞庭湖路",
+            "addressDetail": "昆山市洞庭湖路288号中航城华润万家一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 49,
+            "storeName": "苏站精选",
+            "addressDetail": "苏站路27号苏州站2F层候车室2A检票口（高铁动车南京方向）",
+            "pro": "Wi-Fi,精选店",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 50,
+            "storeName": "南站精选",
+            "addressDetail": "南环东路601号二层",
+            "pro": "Wi-Fi,精选店",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

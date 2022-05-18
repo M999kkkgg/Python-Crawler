@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 51,
+            "storeName": "21世纪",
+            "addressDetail": "江宁区天元中路苏果超市一楼肯德基",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 52,
+            "storeName": "孝陵卫地铁站",
+            "addressDetail": "地铁2号线孝陵卫站",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 53,
+            "storeName": "尧佳路",
+            "addressDetail": "尧化门街179号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 54,
+            "storeName": "南京高铁一",
+            "addressDetail": "高铁一店 站外 长途汽车站旁",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 55,
+            "storeName": "文鼎广场",
+            "addressDetail": "科学园文鼎广场8号楼一层",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 56,
+            "storeName": "弘阳广场",
+            "addressDetail": "弘阳广场B2馆游乐场旁",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 57,
+            "storeName": "仁恒",
+            "addressDetail": "建邺区楠溪江东街78号",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 58,
+            "storeName": "同曦万尚",
+            "addressDetail": "江宁开发区双龙大道以东同曦万尚城",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 59,
+            "storeName": "中山南路",
+            "addressDetail": "汉中路1号东方商城1楼",
+            "pro": "Wi-Fi,精选店,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 60,
+            "storeName": "中央门3",
+            "addressDetail": "龙蟠路264号火车站一楼软席候车室",
+            "pro": "精选店,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}

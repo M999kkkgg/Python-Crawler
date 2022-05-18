@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 31,
+            "storeName": "相城方圆里（宝燕商城）65387782",
+            "addressDetail": "相城区元和街道华元路918号101室一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 32,
+            "storeName": "吴中车站（苏州吴中汽车车站旁）",
+            "addressDetail": "吴中经济开发区广建路10号苏州吴中汽车客运站一二层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 33,
+            "storeName": "金港润发",
+            "addressDetail": "张家港市金港镇黄泗浦西路1号大润发超市内肯德基餐厅",
+            "pro": "Wi-Fi,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 34,
+            "storeName": "园区玲珑0512-65381762",
+            "addressDetail": "工业园区玲珑街58号1栋101",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 35,
+            "storeName": "张家港杨舍",
+            "addressDetail": "张家港市杨舍镇梁丰路南侧杨舍老街1#-10#（园林路、梁丰路、焦家弄、向阳弄围合区内杨舍老街商业步行街）",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 36,
+            "storeName": "昆山世茂润发",
+            "addressDetail": "昆山市前进东路南侧夏驾河东侧昆山世茂广场一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 37,
+            "storeName": "太仓港区",
+            "addressDetail": "太仓市太仓港港口开发区龙江路东侧、映雪路北侧“太仓邻里中心”肯德基餐厅",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 38,
+            "storeName": "太仓新区东亭路",
+            "addressDetail": "太仓市娄江路与县府街交叉口西南侧（太仓新区上海路北、东亭路东地块）万达广场",
+            "pro": "Wi-Fi,点唱机,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 39,
+            "storeName": "盛泽春之声",
+            "addressDetail": "吴江市盛泽镇北观音弄38号春之声商业广场一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 40,
+            "storeName": "阳澄湖",
+            "addressDetail": "相城区阳澄湖中路29号中环百汇广场1-6户",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

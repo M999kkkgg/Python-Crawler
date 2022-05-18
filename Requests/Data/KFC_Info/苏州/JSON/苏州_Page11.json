@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 238
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 101,
+            "storeName": "园区林泉",
+            "addressDetail": "工业园区林泉街671号",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 102,
+            "storeName": "常熟天虹",
+            "addressDetail": "常熟市招商北路8号(常熟天虹服装城)",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 103,
+            "storeName": "木渎金山",
+            "addressDetail": "木渎镇金山路37号(天虹旁）",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 104,
+            "storeName": "相城元和",
+            "addressDetail": "相城区元和镇阳澄湖东路1号",
+            "pro": "24小时,Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 105,
+            "storeName": "太仓汽车站",
+            "addressDetail": "太仓市新区太平北路107号汽车客运中心站一、二层",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 106,
+            "storeName": "常熟珠江/新欧尚一楼",
+            "addressDetail": "常熟市珠江东路98号欧尚超市一层",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 107,
+            "storeName": "园区苏雅",
+            "addressDetail": "工业园区苏雅路388号园区天虹A座一楼肯德基",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 108,
+            "storeName": "甪直",
+            "addressDetail": "吴中区甪直镇晓路26号",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 109,
+            "storeName": "东环路",
+            "addressDetail": "东环路1500号大润发超内",
+            "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 110,
+            "storeName": "平江新城",
+            "addressDetail": "平江区人民路3188号万达商业广场家乐福一层",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        }
+    ]
+}

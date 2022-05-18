@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 40
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 21,
+            "storeName": "射阳恒隆",
+            "addressDetail": "射阳县红旗路42号恒隆广场大润发超市一楼",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 22,
+            "storeName": "射阳龙翔",
+            "addressDetail": "射阳县解放路与朝阳路交叉处苏果超市一楼",
+            "pro": "Wi-Fi,店内参观,礼品卡,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 23,
+            "storeName": "盐城中南",
+            "addressDetail": "城南新区解放路与海洋路交汇处东北角",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 24,
+            "storeName": "阜宁益林",
+            "addressDetail": "阜宁益林人民路叶波大润发超市一层",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 25,
+            "storeName": "盐城义乌城",
+            "addressDetail": "开放大道313号",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 26,
+            "storeName": "滨海润发",
+            "addressDetail": "滨海县人民路99号大润发超市一层",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 27,
+            "storeName": "东台德润",
+            "addressDetail": "东台市海陵北路9号101室、102室德润购物广场1层107商铺",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 28,
+            "storeName": "荷兰花海",
+            "addressDetail": "新丰镇西环路（新丰商务大厦西北侧）",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 29,
+            "storeName": "盐城新纪元",
+            "addressDetail": "（黄海路北、开放大道西）开放大道北路103号新纪元广场6#1002室、1003室",
+            "pro": "24小时,Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        },
+        {
+            "rownum": 30,
+            "storeName": "中交美庐",
+            "addressDetail": "大丰市黄海西路南侧美庐城13号楼一层",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "盐城市"
+        }
+    ]
+}

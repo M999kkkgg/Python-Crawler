@@ -1,0 +1,45 @@
+数据解析学习路线
+    - 聚焦爬虫
+    - 正则表达式
+    - bs4
+    - xpath
+
+requests模块实现数据爬取的流程
+    - 指定URL
+        # UA伪装
+        # 设置Cookie
+        # 设置Content-Type
+    - 发出请求
+    - 获取响应数据
+        # 常见的body格式
+            * multipart/form-data
+            * application/x-www-from-urlencoded
+            * raw
+            * binary
+        # 常见的Content-Type格式
+            * application/x-www-form-urlencoded
+            * multipart/form-data
+            * application/json
+            * text/xml
+    - 持久化存储
+
+聚焦爬虫
+    - 爬取页面中指定的页面内容
+    - 建立在通用爬虫基础之上
+    - 编码流程
+        # 指定URL
+        # 发起请求
+        # 获取响应数据
+        # 数据解析
+        # 持久化存储
+
+数据解析分类
+    - 基于正则表达式
+    - 基于bs4
+    - 基于xpath（重点）
+
+数据解析原理概述
+    - 解析的局部的文本内容都会在标签之间/标签对应的属性中进行存储
+        # 定位到指定的标签/文本
+    - 第一步：进行指定标签的定位
+    - 第二步：标签或者标签对应的属性中存储的数据值进行提取（解析）

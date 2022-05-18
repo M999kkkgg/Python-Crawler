@@ -1,0 +1,89 @@
+{
+    "Table": [
+        {
+            "rowcount": 153
+        }
+    ],
+    "Table1": [
+        {
+            "rownum": 131,
+            "storeName": "玄武湖外卖点",
+            "addressDetail": "玄武湖景区环洲",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 132,
+            "storeName": "海乐城餐厅",
+            "addressDetail": "永阳镇中大街81号溧水国际中心（南京海乐城）一层（铺位号1F-36)",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 133,
+            "storeName": "海乐城甜品站",
+            "addressDetail": "永阳镇中大街81号溧水国际中心南京海乐城六层（铺位号6F-12A)",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 134,
+            "storeName": "东庐山",
+            "addressDetail": "溧水区宁杭高速公路东庐山服务区（宁杭向）",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 135,
+            "storeName": "岱山",
+            "addressDetail": "岱山北路15号荟邻生活广场1层1F-101号商铺",
+            "pro": "点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 136,
+            "storeName": "南京肯德基有限公司华采天地甜品站",
+            "addressDetail": "建邺区江东中路258号华采天地地下一层B1F-01/21号铺位",
+            "pro": null,
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 137,
+            "storeName": "南京肯德基有限公司华采天地餐厅",
+            "addressDetail": "建邺区江东中路258号华采天地三层F3-32号铺位",
+            "pro": "Wi-Fi,店内参观",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 138,
+            "storeName": "美龄宫外卖点(美龄宫对面驿站）",
+            "addressDetail": "中山陵9号美龄宫对面驿站",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 139,
+            "storeName": "明发永辉",
+            "addressDetail": "滨江大道1号明发永辉超市一、二层",
+            "pro": "Wi-Fi,店内参观,生日餐会",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        },
+        {
+            "rownum": 140,
+            "storeName": "证大",
+            "addressDetail": "雨花台区民智路8号",
+            "pro": "Wi-Fi",
+            "provinceName": "江苏省",
+            "cityName": "南京市"
+        }
+    ]
+}
